@@ -2,7 +2,7 @@
 
 A full-stack web application that identifies pricing discrepancies between traditional sportsbooks and Kalshi prediction markets for NBA games. By comparing vig-removed consensus odds from multiple sportsbooks against real-money prediction market prices, EdgeFinder surfaces potential arbitrage opportunities and market inefficiencies in real time.
 
-<img width="1778" height="890" alt="image" src="https://github.com/user-attachments/assets/8ca7627a-adeb-4a7d-8768-9f01d41308c3" />
+<img width="912" height="902" alt="image" src="https://github.com/user-attachments/assets/5f4bed96-b291-4a0a-b468-e635a4ee543c" />
 
 ---
 
